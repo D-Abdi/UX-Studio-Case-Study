@@ -4,6 +4,9 @@
     <Hero></Hero>
     <Doelgroep></Doelgroep>
     <Research></Research>
+    <Insights></Insights>
+    <Concepten></Concepten>
+    <ConceptKeuze></ConceptKeuze>
   </div>
 </template>
 
@@ -12,6 +15,9 @@
 import Hero from "./components/Hero.vue";
 import Doelgroep from "./components/Doelgroep.vue";
 import Research from "./components/Research.vue";
+import Insights from "./components/Insights.vue";
+import Concepten from "./components/Concepten.vue";
+import ConceptKeuze from "./components/ConceptKeuze.vue";
 
 export default {
   name: "App",
@@ -19,7 +25,10 @@ export default {
     // Navigation,
     Hero,
     Doelgroep,
-    Research
+    Research,
+    Insights,
+    Concepten,
+    ConceptKeuze
   },
 };
 </script>
