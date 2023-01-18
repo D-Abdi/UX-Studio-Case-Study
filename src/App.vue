@@ -1,7 +1,7 @@
 <template>
   <!-- <Navigation></Navigation> -->
+  <Hero></Hero>
   <div class="container mx-auto">
-    <Hero></Hero>
     <Doelgroep></Doelgroep>
     <Research></Research>
     <Insights></Insights>

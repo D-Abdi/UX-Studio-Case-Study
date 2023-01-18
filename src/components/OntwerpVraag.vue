@@ -1,6 +1,6 @@
 <template>
-  <section class="my-24">
-    <img src="../assets/Ontwerpvraag/vraag.png" loading="lazy" class="w-full h-full" />
+  <section class="my-24 flex justify-center">
+    <img src="../assets/Ontwerpvraag/vraag.png" loading="lazy" class="w-3/4 h-full" />
   </section>
 </template>
 
