@@ -11,6 +11,9 @@
     <OntwerpRichtlijnen></OntwerpRichtlijnen>
     <Concept></Concept>
     <Eerste></Eerste>
+    <Tweede></Tweede>
+    <Derde></Derde>
+    <Conclussie></Conclussie>
   </div>
 </template>
 
@@ -26,6 +29,9 @@ import OntwerpVraag from "./components/OntwerpVraag.vue";
 import OntwerpRichtlijnen from "./components/OntwerpRichtlijnen.vue";
 import Concept from "./components/Concept.vue";
 import Eerste from "./components/Eerste.vue";
+import Tweede from "./components/Tweede.vue";
+import Derde from "./components/Derde.vue";
+import Conclussie from "./components/Conclussie.vue";
 
 export default {
   name: "App",
@@ -40,7 +46,10 @@ export default {
     OntwerpVraag,
     OntwerpRichtlijnen,
     Concept,
-    Eerste
+    Eerste,
+    Tweede,
+    Derde,
+    Conclussie
   },
 };
 </script>
