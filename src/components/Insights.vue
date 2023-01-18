@@ -2,7 +2,7 @@
     <section class="text-primary body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col justify-center items-center text-center w-1/3 mt-10 mb-10 mx-auto">
-      <h1 class="sm:text-3xl text-2xl font-medium title-font text-primary mb-4">Insights</h1>
+      <h1 class="sm:text-3xl text-2xl font-bold title-font text-primary mb-4">Insights</h1>
       <p class="mb-8 leading-relaxed text-lg">
         Uit onze research fase hebben we goede inzichten verkregen. Onderstaande inzichten waren het belangrijkste en zijn de basis geweest voor het uitwerken van onze concepten.
         </p>

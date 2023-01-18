@@ -7,6 +7,10 @@
     <Insights></Insights>
     <Concepten></Concepten>
     <ConceptKeuze></ConceptKeuze>
+    <OntwerpVraag></OntwerpVraag>
+    <OntwerpRichtlijnen></OntwerpRichtlijnen>
+    <Concept></Concept>
+    <Eerste></Eerste>
   </div>
 </template>
 
@@ -18,6 +22,10 @@ import Research from "./components/Research.vue";
 import Insights from "./components/Insights.vue";
 import Concepten from "./components/Concepten.vue";
 import ConceptKeuze from "./components/ConceptKeuze.vue";
+import OntwerpVraag from "./components/OntwerpVraag.vue";
+import OntwerpRichtlijnen from "./components/OntwerpRichtlijnen.vue";
+import Concept from "./components/Concept.vue";
+import Eerste from "./components/Eerste.vue";
 
 export default {
   name: "App",
@@ -28,7 +36,11 @@ export default {
     Research,
     Insights,
     Concepten,
-    ConceptKeuze
+    ConceptKeuze,
+    OntwerpVraag,
+    OntwerpRichtlijnen,
+    Concept,
+    Eerste
   },
 };
 </script>
